@@ -1,0 +1,7 @@
+print('Hi!',end='')
+print('how are you?')
+name=input('what is your name?: ')
+age=input('what is your age?: ')
+location=input('where are you rn?: ')
+print(f'Thank you {name}, for talking to me')
+print(f'your age is {age} and you are in {location} right now')
